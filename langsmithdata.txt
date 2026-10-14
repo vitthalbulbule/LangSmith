@@ -1,0 +1,8 @@
+ 
+ # Its must add when you want langsmith Integrate with langchain or LangGraph
+
+
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT='https://api.smith.langchain.com'
+LANGCHAIN_API_KEY='API KEY'
+LANGCHAIN_PROJECT='langsmith-demo'
